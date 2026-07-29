@@ -1,37 +1,43 @@
-![徐俊毅 · 轨迹](assets/profile-banner-v3.png)
+![徐俊毅 · AI Agent 应用开发工程师](assets/profile-banner-v4.png)
 
-我是徐俊毅,温州人,2027 届计算机本科。
-这里的工厂把电机和鞋卖到全世界,我给这些工厂造数字员工:它们读询盘、写背调、起草英文内容,人只在最后点个头。目前两只在岗,服务两家付费工厂,至今零错发。
+## 关于我
+
+2027 届计算机科学与技术本科，求职方向：**AI Agent 应用开发工程师**。
+
+2026 年 5 月至今在联界智能实习，独立交付 3 个已上线的业务 Agent 系统，服务 2 家付费客户的生产环境。简历 PDF 在仓库里：[徐俊毅-简历-AI Agent应用开发.pdf](徐俊毅-简历-AI%20Agent应用开发.pdf)
 
 ## 我是什么样的人
 
-- **主动沟通,大方表达。** 从对外贸一无所知,到蹲进业务流程里问清楚再动手——先理解人,再写代码。做出来的东西,我敢当场演示给你看。
-- **定了目标,就一步步落实。** 五子棋 AI → RAG 原型 → 上线的 Agent 系统,每个项目都是下一个项目的地基,没有一步是白走的。
-- **遇到困难不逃。** 2 GB 内存的服务器,调 Docker 和内存参数把工作流跑稳;系统出过真实故障,所以把它设计成"宁可停,不可错"。
-- **追求上限,不保下限。** 能跑不算完:436 个 pytest 用例、红绿 TDD、p95 延迟实测。交出去的东西,做到我当前能力的最好。
-- **无限游戏心态。** 不比一次输赢,比能力复利——每个项目沉淀下来的模式,都变成下一个项目的起点。
+- **主动沟通，大方表达。** 实习第一周我对外贸业务零基础，做法是直接找业务同事问、把流程图画出来对齐，两个月后我交付的系统在客户现场由我当场演示。
+- **目标导向，一步步落实。** 从校内五子棋 AI 第一名，到自学 RAG 并开源，再到交付上线的生产系统——每一步都是下一步的地基，没有跳跃。
+- **遇到困难不逃避。** 客户服务器只有 2GB 内存，我逐个调优 Docker 容器内存占用让系统跑稳；设计上坚持"宁可停、不可错"——拿不准的询盘宁可转人工，也不让系统错发。
+- **追求上限，不保下限。** 项目不是"能跑就行"：436 个 pytest 用例、红-绿 TDD、p95 响应时间实测压进指标，这些没有客户要求我，是我给自己的标准。
+- **无限思维。** 我相信能力是可以复利的：一套验证过的 Agent 工程方法论，从 SEO 内容流水线复用到询盘背调系统，交付周期从 6 周压到 2 周。
 
 ## 能力面
 
-| 方向 | 具体 |
-|---|---|
-| Agent 与大模型应用 | LangGraph 多智能体编排、RAG(混合检索、来源引用)、Prompt 工程、任务编排与故障恢复 |
-| 后端与自动化 | Python(异步)、FastAPI、Playwright / CDP 浏览器自动化、Streamlit、Pydantic v2 |
-| 数据与集成 | SQLite FTS5、Chroma、openpyxl、Google Sheets API、Apps Script |
-| 工程与交付 | Docker / Compose、GitHub Actions CI/CD、pytest(TDD)、PyInstaller / MSIX、Linux 排障、Nginx |
+| 方向 | 技术栈 |
+| --- | --- |
+| Agent 与大模型应用 | LangGraph · RAG · Prompt 工程 · 任务编排与故障恢复 |
+| 后端与自动化 | Python 异步 · FastAPI · Playwright / CDP · Streamlit · Pydantic v2 |
+| 数据与集成 | SQLite FTS5 · Chroma · openpyxl · Google Sheets API · Apps Script |
+| 工程与交付 | Docker · GitHub Actions · pytest / TDD · PyInstaller MSIX · Linux 排障 · Nginx |
 
-## 证据
+## 项目与作品
 
-- [**seo-content-workflow-demo**](https://github.com/1-1-1-11/seo-content-workflow-demo) — LangGraph 多智能体内容流水线,生产系统脱敏重写版,mock 模式免 Key 可跑
-- [**lead-verification-relay-demo**](https://github.com/1-1-1-11/lead-verification-relay-demo) — 询盘背调 Relay 的安全模式:四重身份校验、全局人工暂停、写回列白名单
-- [**RAG**](https://github.com/1-1-1-11/RAG) — 工业图文 RAG 原型,FTS5 + Chroma 混合检索,来源引用可回溯
+| 仓库 | 说明 |
+| --- | --- |
+| [seo-content-workflow-demo](https://github.com/1-1-1-11/seo-content-workflow-demo) | SEO 内容生产流水线（脱敏 demo）：多 Agent 协作、SQLite FTS5 全文检索、Streamlit 看板 |
+| [lead-verification-relay-demo](https://github.com/1-1-1-11/lead-verification-relay-demo) | 询盘背调接力系统（脱敏 demo）：多源核验、"宁可停不可错"闸口设计 |
+| [RAG](https://github.com/1-1-1-11/RAG) | 自学 RAG 时期的检索增强实践，后来演进为线上系统的检索底座 |
 
 ## 经历与荣誉
 
-**联界智能科技有限公司** · AI Agent 开发实习生(2026.05 – 至今)——独立交付 3 个已上线的业务 Agent 系统
-
-RAICOM 机器人大赛省一等奖 · 校程序设计竞赛三等奖 · 校五子棋 AI 竞赛第 1 名 · 校级三等奖学金 · 软考中级软件设计师 · CET-6(494)
+- **联界智能 · AI 应用开发实习生**（2026.05 至今）——独立交付 3 个生产级业务 Agent 系统
+- RAICOM 机器人开发者大赛 · 省级一等奖
+- 校程序设计竞赛 · 三等奖 ｜ 校五子棋 AI 对抗赛 · 第 1 名
+- 校三等奖学金 ｜ 软考中级 · 软件设计师 ｜ CET-6 · 494
 
 ---
 
-📮 [xtyiyu84@gmail.com](mailto:xtyiyu84@gmail.com) · 求职方向:AI Agent 应用开发工程师
+📫 xtyiyu84@gmail.com ｜ 求职方向：AI Agent 应用开发工程师（2027 届校招）

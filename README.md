@@ -10,9 +10,12 @@
 | [RainScope](https://github.com/1-1-1-11/RainScope) | 雨境：降雨数据做成可拖的雨景（含郑州 7·20）。 |
 
 <p>
-<img src="assets/seo-dashboard-demo.png" alt="SEO 流水线界面" width="48%" />
+<img src="assets/seo-dashboard-demo.png" alt="SEO 内容流水线" width="48%" />
 &nbsp;
-<img src="assets/backcheck-dashboard-demo.png" alt="背调监控台" width="48%" />
+<img src="assets/backcheck-dashboard-demo.png" alt="询盘背调工作台" width="48%" />
+</p>
+<p>
+<img src="assets/proxy-status-demo.png" alt="CCBaga 出口检查" width="48%" />
 </p>
 
 日常主要在 Claude Code / Codex 里写。下面是 CC Switch 里一年的 Tokens 用量热力图。

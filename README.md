@@ -4,9 +4,9 @@
 
 | 项目 | 一句话 |
 | --- | --- |
-| [seo-content-workflow-demo](https://github.com/1-1-1-11/seo-content-workflow-demo) | 关键词 → 可检查的 SEO 草稿。本地 mock 可跑。单篇大约从半天压到十分钟。 |
-| [lead-verification-relay-demo](https://github.com/1-1-1-11/lead-verification-relay-demo) | 询盘背调。身份对不上就停。 |
-| [Proxy](https://github.com/1-1-1-11/Proxy) | CCBaga：Claude 固定出口检查，浏览器不过检不启动。 |
+| [seo-content-workflow-demo](https://github.com/1-1-1-11/seo-content-workflow-demo) | 从关键词走到可发布的 SEO 草稿。本地 mock 能跑。单篇大约从半天压到十分钟。 |
+| [lead-verification-relay-demo](https://github.com/1-1-1-11/lead-verification-relay-demo) | 询盘背调接力：收表、核对、结果写回。对不上的会标出来。 |
+| [Proxy](https://github.com/1-1-1-11/Proxy) | CCBaga：给 Claude 固定出口做检查，浏览器跟着同一条链路走。 |
 | [RainScope](https://github.com/1-1-1-11/RainScope) | 雨境：降雨数据做成可拖的雨景（含郑州 7·20）。 |
 
 <p>
